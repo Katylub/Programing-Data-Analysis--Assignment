@@ -8,7 +8,7 @@ This repository contains the solutions for the Assignment for the module Program
 The assignment concerns the **numpy.random package** in Python and is based in the creation of a Jupyter notebook explaining the use of the package, including explanation of some of their distribution packages and functions. 
 
 # About the files:
-In this repository you can see a Jupyter Notebook file under the name of [Numpy.Random-Package.ipynb] (https://github.com/Katylub/Programing-Data-Analysis-Assignment/blob/master/Numpy.Random-Package.ipynb/)
+In this repository you can see a Jupyter Notebook file under the name of [Numpy.Random-Package.ipynb](https://github.com/Katylub/Programing-Data-Analysis-Assignment/blob/master/Numpy.Random-Package.ipynb/)
 
 ## Installation
 1. Make sure you have Jupyter Notebook and Python installed to run the program
